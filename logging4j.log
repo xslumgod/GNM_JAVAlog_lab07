@@ -1,0 +1,4 @@
+2022-12-01 11:22:40 [INFO ] FXMLDocumentController:83 - Start log4j
+2022-12-01 11:22:40 [INFO ] FXMLDocumentController:84 - Hi Logger info!
+2022-12-01 12:07:34 [INFO ] FXMLDocumentController:83 - Start log4j
+2022-12-01 12:07:34 [INFO ] FXMLDocumentController:84 - Hi Logger info!
